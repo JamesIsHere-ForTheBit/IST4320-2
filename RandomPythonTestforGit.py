@@ -1,0 +1,1 @@
+print("Here is another document for class!")
